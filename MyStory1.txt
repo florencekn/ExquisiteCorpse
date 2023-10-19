@@ -1,6 +1,0 @@
-/*This is my First Story file.*/
-git status
-git add --all	/*add filed to the staging environment to be tracked*/
-git status	    /*check that files are there*/
-git commit -m	"I updated READ.md and added MyStory.txt"
-git status
